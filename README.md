@@ -1,5 +1,7 @@
-## Hi there 👋
-
+<div align="center">
+<h1 align="center">Hi, I'm <a href="https://aristi.dev](https://linktr.ee/Mauricio_Viamont)">Mauricio Viamont</a> 👋</h1>
+</div>
+<img src= "https://imgur.com/H7XX0ld.png">
 <!--
 **MauricioViamont/MauricioViamont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
