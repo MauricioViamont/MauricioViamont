@@ -2,17 +2,14 @@
 <h1 align="center">Hi, I'm <a href="https://aristi.dev](https://linktr.ee/Mauricio_Viamont)">Mauricio Viamont</a> 👋</h1>
 </div>
 <img src= "https://imgur.com/H7XX0ld.png">
-<!--
-**MauricioViamont/MauricioViamont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Portafolio](https://img.shields.io/badge/Portafolio_BI-yellow)](https://linktr.ee/Mauricio_Viamont)
+[![GitHub followers](https://img.shields.io/github/followers/MauricioViamont?style=social&logoColor=violet)](https://github.com/MauricioViamont)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mi
+
+- 📲 Data Engineer
+- 🔭 I’m currently open to work
+- 👯 I’m looking to collaborate on new projects and get more experience
+- 📫 How to reach me: [Linkdin](https://www.linkedin.com/in/mauricio-viamont/) / [Linktree](https://linktr.ee/Mauricio_Viamont)
+  
